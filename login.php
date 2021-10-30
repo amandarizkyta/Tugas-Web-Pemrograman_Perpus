@@ -19,7 +19,7 @@
     <!-- ngga pake form soalnya mau validasi ajax biar bisa pake alert sweet alert hehe  -->
         <i class="fas fa-book-reader"></i>
         <h1 class="h3 mb-3 fw-normal">Perpustakaan MariBaca</h1>
-        <h3 class="h5 mb-3 fw-normal">Silahkan Login</h3>
+        <h3 class="h5 mb-3 fw-normal">Admin Silahkan Login</h3>
 
         <div class="form-floating">
         <input name="email" type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
